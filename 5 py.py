@@ -1,0 +1,5 @@
+p=int(input("enter the principle amount:"))
+r=int(input("enter the rate of intrest:"))
+t=int(input("enter the time:"))
+a=((p*r*t)/100)
+print(f"the simple interest is {a}")
